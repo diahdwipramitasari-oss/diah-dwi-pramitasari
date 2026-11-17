@@ -1,0 +1,6 @@
+{
+  "name": "SIMPAS-ASET SIDOARJO",
+  "description": "Sistem Informasi Manajemen Sertifikasi & Pengamanan Aset 19 Pasar Pemerintah Daerah Kabupaten Sidoarjo — Dinas Perindustrian dan Perdagangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
